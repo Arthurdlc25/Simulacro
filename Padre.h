@@ -6,6 +6,8 @@
 using namespace std;
 using namespace System;
 
+#define ALTO 40
+#define ANCHO 80
 class Padre {
 
 };
